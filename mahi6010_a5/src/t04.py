@@ -1,0 +1,14 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Roshni Mahindru
+ID:      210756010
+Email:   mahi6010@mylaurier.ca
+__updated__ = "2021-11-07"
+-------------------------------------------------------
+"""
+
+from functions import multiplication_table
+
+multiplication_table(2, 10)

@@ -1,0 +1,91 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Roshni Mahindru
+ID:      210756010
+Email:   mahi6010@mylaurier.ca
+Version: 2021-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+The book title is, "The Fifth Season".
+What's mine is mine, and what's yours is mine.
+"Experience is one thing you can't get for nothing." Oscar Wilde
+Three things cannot be long hidden:
+the sun,
+the moon,
+and the truth.
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+Enter your age:12
+Enter your favourite band:Nickleback
+I am 12 years old and my favourite band is Nickleback
+
+Enter your age:18
+Enter your favourite band:The Beatles
+I am 18 years old and my favourite band is The Beatles
+
+Enter your age:21
+Enter your favourite band:Queen
+I am 21 years old and my favourite band is Queen
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+Length in miles:12.5
+Length in km:  20.11675
+
+Length in miles:97.35
+Length in km:  156.66924899999998
+
+Length in miles:23
+Length in km:  37.01482
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+Cost of 1 burrito:4.49
+Number of burritos:3
+Total cost of  3.0  burritos: $ 13.47
+
+Cost of 1 burrito:7.99
+Number of burritos:6
+Total cost of  6.0  burritos: $ 47.94
+
+Cost of 1 burrito:5.87
+Number of burritos:4
+Total cost of  4.0  burritos: $ 23.48
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+Principal: $5000
+Interest:0.05
+Number of years:10
+Number of time interest compounded per year:12
+Balance: $ 8235.0474884514
+
+Principal: $1250
+Interest:0.2
+Number of years:4
+Number of time interest compounded per year:6
+Balance: $ 2745.8736641699766
+
+Principal: $200
+Interest:0.6
+Number of years:3
+Number of time interest compounded per year:24
+Balance: $ 1183.4456124429498
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
